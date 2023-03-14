@@ -1,5 +1,5 @@
 <?php
-$db = mysqli_connect("","root","root","phpdasar");
+$db = mysqli_connect("localhost","root","","phpdasar");
 
 
 
